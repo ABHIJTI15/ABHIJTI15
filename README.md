@@ -66,9 +66,21 @@ I am a Full-Stack Developer with strong focus on backend engineering and scalabl
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/abhijit-jaiswal-99b3b92aa/  
-Twitter/X: https://x.com/AbhiCodes15  
-Email: abhijeetjaiswal156@gmail.com  
+<p align="left">
+
+<a href="https://www.linkedin.com/in/abhijit-jaiswal-99b3b92aa/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://x.com/AbhiCodes15" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="mailto:abhijeetjaiswal156@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
