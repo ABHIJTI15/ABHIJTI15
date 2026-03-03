@@ -1,6 +1,6 @@
 <h1 align="center">Abhijit Jaiswal</h1>
 <p align="center">
-Backend-Focused Full-Stack Developer | Learning Agentic AI
+Full-Stack Developer | Learning Agentic AI
 </p>
 
 ---
