@@ -5,15 +5,18 @@ Backend-Focused Full-Stack Developer | Learning Agentic AI
 
 ---
 
+## About Me
+
+Full-Stack Developer building scalable and production-ready SaaS applications.
+Currently exploring Agentic AI and real-world LLM integrations to build intelligent systems.
+
+---
+
 ## Visitors
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ABHIJTI15&style=for-the-badge&color=0e75b6" />
 </p>
-
-## About Me
-
-Full-Stack Developer building real-world SaaS products and currently exploring Agentic AI.
 
 ---
 
@@ -30,7 +33,7 @@ Full-Stack Developer building real-world SaaS products and currently exploring A
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 💻 Programming Languages
+### Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -85,7 +88,3 @@ Full-Stack Developer building real-world SaaS products and currently exploring A
 </a>
 
 </p>
-
----
-
-Building scalable systems. Learning continuously. Shipping consistently.
