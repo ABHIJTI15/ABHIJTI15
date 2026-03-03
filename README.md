@@ -1,79 +1,80 @@
-# Hi 👋 I'm Abhijit Jaiswal
-
-🚀 Full-Stack Developer | Backend Engineer | AI Builder  
-💡 Building AI Agent SaaS in Public  
-
----
-
-## 🔥 About Me
-
-- 🛠️ Working with React, Node.js, Express, PostgreSQL
-- 🤖 Building AI-powered SaaS products
-- 🔐 Strong focus on Authentication, APIs & Database Design
-- 🚀 Deploying on Render, Vercel & Supabase
-- 🧠 Currently learning Agentic AI, RAG & LLMOps
+<h1 align="center">Abhijit Jaiswal</h1>
+<p align="center">
+Full-Stack Developer | Backend Engineer | AI Systems Builder
+</p>
 
 ---
 
-## 🧰 Tech Stack
+## About Me
 
-**Frontend**
-- React (Vite)
-- TypeScript
-- Tailwind CSS
+I am a Full-Stack Developer focused on backend engineering, scalable APIs, and AI-powered applications.  
+I build production-ready systems using Node.js, PostgreSQL, and modern frontend technologies.
 
-**Backend**
+Currently working on:
+- AI-powered SaaS products
+- Agentic AI & RAG systems
+- Authentication & secure backend architecture
+- Subscription billing systems (Stripe / Polar)
+
+---
+
+## Tech Stack
+
+### Backend
 - Node.js
 - Express.js
 - PostgreSQL
 - Supabase
+- REST APIs
 - JWT Authentication
 
-**AI & Tools**
-- OpenRouter
+### Frontend
+- React (Vite)
+- TypeScript
+- Tailwind CSS
+
+### AI & Tools
+- RAG Systems
 - LangChain
-- RAG Systems
-- Polar (Payments)
+- OpenRouter
 - Stripe
+- Polar
+- Git & Linux
 
 ---
 
-## 🚀 Featured Projects
+## Selected Projects
 
-### 🦷 Teraleads Assessment
-AI-powered Dental Dashboard with:
-- JWT Auth
-- Patients CRUD
-- AI Chat Integration
+### Teraleads Assessment – AI Dental Dashboard
+- JWT-based Authentication
 - PostgreSQL (Supabase)
-- Render Deployment
+- Patients CRUD APIs
+- AI Chat Integration
+- Backend deployed on Render
+- Frontend deployed on Vercel
 
-### 🤖 AI Agent SaaS (In Progress)
-- No-code AI Agent Builder
-- Subscription Billing (Polar + Stripe)
-- Agent Preview Chat System
-- Multi-language Code Generation
-
----
-
-## 📈 Currently Working On
-- Agentic AI
-- LangGraph
-- RAG Systems
-- SaaS Monetization
+### AI Agent SaaS (In Progress)
+- No-code AI agent builder
+- Subscription billing integration
+- Agent preview system
+- Multi-language code generation
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: (add link)
-- Twitter/X: (add link)
-- Email: your email
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABHIJTI15&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHIJTI15&layout=compact&theme=default)
 
 ---
 
-⚡ Building daily. Shipping fast. Learning publicly.
+## Contact
 
+LinkedIn: (add link)  
+Twitter/X: (add link)  
+Email: (add email)
 
-## 🔥 Contribution Graph
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ABHIJTI15&theme=tokyonight)
+Building scalable systems. Learning continuously. Shipping consistently.
