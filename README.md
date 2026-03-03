@@ -52,9 +52,9 @@ I am a Full-Stack Developer with strong focus on backend engineering and scalabl
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABHIJTI15&show_icons=true&theme=github_dark)
+<img src="https://github-readme-stats.vercel.app/api?username=ABHIJTI15&show_icons=true&theme=github_dark" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHIJTI15&layout=compact&theme=github_dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHIJTI15&layout=compact&theme=github_dark" />
 
 ---
 
