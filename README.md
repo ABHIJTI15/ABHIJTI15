@@ -73,6 +73,10 @@ AI-powered Dental Dashboard with:
 
 ⚡ Building daily. Shipping fast. Learning publicly.
 
+## 📊 GitHub Stats
+
+![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABHIJTI15&show_icons=true&theme=tokyonight)
+
 ## 🔥 Contribution Graph
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ABHIJTI15&theme=tokyonight)
