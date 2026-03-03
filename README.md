@@ -5,6 +5,12 @@ Backend-Focused Full-Stack Developer | Learning Agentic AI
 
 ---
 
+## Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ABHIJTI15&style=for-the-badge&color=0e75b6" />
+</p>
+
 ## About Me
 
 I am a Full-Stack Developer with strong focus on backend engineering and scalable systems.
