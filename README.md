@@ -1,19 +1,20 @@
 <h1 align="center">Abhijit Jaiswal</h1>
 <p align="center">
-Full-Stack Developer | Backend Engineer | Learning Agentic AI
+Backend-Focused Full-Stack Developer | Learning Agentic AI
 </p>
 
 ---
 
 ## About Me
 
-I am a Full-Stack Developer focused on building scalable backend systems and AI-powered applications.
+I am a Full-Stack Developer with strong focus on backend engineering and scalable systems.
 
-- 🔧 Strong in Node.js, Express, PostgreSQL
-- 🚀 Building production-ready SaaS systems
+- 🔧 Building REST APIs with Node.js & Express
+- 🗄️ Designing structured databases using PostgreSQL
+- 🔐 Implementing secure authentication (JWT)
+- 🚀 Deploying production systems on Render & Vercel
 - 🤖 Currently learning Agentic AI, RAG & LLM workflows
-- 🔐 Focused on authentication, system design & API architecture
-- 🐧 Linux-based development environment
+- 🐧 Working in Linux-based development environment
 
 ---
 
@@ -65,9 +66,9 @@ I am a Full-Stack Developer focused on building scalable backend systems and AI-
 
 ## Contact
 
-LinkedIn: (add link)  
-Twitter/X: (add link)  
-Email: (add email)
+LinkedIn: https://www.linkedin.com/in/abhijit-jaiswal-99b3b92aa/  
+Twitter/X: https://x.com/AbhiCodes15  
+Email: abhijeetjaiswal156@gmail.com  
 
 ---
 
