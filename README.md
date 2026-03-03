@@ -13,14 +13,7 @@ Backend-Focused Full-Stack Developer | Learning Agentic AI
 
 ## About Me
 
-I am a Full-Stack Developer with strong focus on backend engineering and scalable systems.
-
-- 🔧 Building REST APIs with Node.js & Express
-- 🗄️ Designing structured databases using PostgreSQL
-- 🔐 Implementing secure authentication (JWT)
-- 🚀 Deploying production systems on Render & Vercel
-- 🤖 Currently learning Agentic AI, RAG & LLM workflows
-- 🐧 Working in Linux-based development environment
+Full-Stack Developer building real-world SaaS products and currently exploring Agentic AI.
 
 ---
 
@@ -36,6 +29,12 @@ I am a Full-Stack Developer with strong focus on backend engineering and scalabl
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 💻 Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
